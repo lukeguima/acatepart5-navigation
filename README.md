@@ -1,5 +1,5 @@
 ## Dev For Tech React Native | ACATE
-### Projeto: Acate Part 2
+### Projeto: Acate Part 5 - React Navigation
 ### Professor: Douglas Morais
 
 ### O que é Dev For Tech?
